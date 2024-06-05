@@ -1,5 +1,5 @@
 # Koba Melikishvili
-_Role: Pumpkin Farmer and Smuggler (Exiled)_
+_Exiled Pumpkin Farmer and Smuggler_
 
 ## Appearance
 Koba is a middle-aged man with a rough and scarred appearance. His ears and nose bear the unmistakable marks of punishment, with slit scars marring his face. His dark, sunken eyes reflect a life of hardship and regret. Koba's unkempt hair and ragged clothing give him a disheveled look, adding to his outcast image.
