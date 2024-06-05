@@ -1,6 +1,5 @@
 # 🐗 Bakur the Beastman
-
-
+_Gentleman Hermit_
 
 ## Appearance
 Bakur is a unique and striking figure, an unusual blend of boar, coyote, and man. He has the muscular build and coarse hair of a boar, the sharp features and cunning eyes of a coyote, and the upright posture of a human. His face is a mix of all three, with a pronounced snout, sharp teeth, and pointed ears. Despite his intimidating appearance, his eyes reveal a friendly and curious nature.
