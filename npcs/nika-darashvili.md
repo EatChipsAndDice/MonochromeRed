@@ -1,5 +1,5 @@
 # Nika Darashvili
-_New Castellan of the Fort_
+_Substitute Castellan of the Fort_
 
 ## Appearance
 Nika is a young man in his late twenties, with a lean build and an earnest expression. He has short, dark hair and brown eyes that reveal his determination and the weight of his new responsibilities. His clean-shaven face and youthful features contrast sharply with the rugged appearance of the local militia.
