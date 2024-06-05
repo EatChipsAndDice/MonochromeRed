@@ -39,6 +39,7 @@ Challenge: 1/8 (25 XP)
 
 ### Actions
 Scimitar: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+
 Light Crossbow: Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 
 ### Reactions
