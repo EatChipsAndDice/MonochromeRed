@@ -24,12 +24,10 @@ Hit Points: 11 (2d8 + 2)
 
 Speed: 30 ft.
 
-STR 13 (+1)
-DEX 14 (+2)
-CON 12 (+1)
-INT 10 (+0)
-WIS 11 (+0)
-CHA 10 (+0)
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13   |14   |12   |12   |11   |8   |
+|+1   |+2   |+1   |+0   |+0   |-1   |
 
 Skills: Deception +2, Sleight of Hand +4, Stealth +4
 
