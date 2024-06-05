@@ -1,5 +1,5 @@
 # Taron Gavras
-_Castellan of the Fort_
+_Missing Veteran Castellan of the Fort_
 
 ## Appearance
 Taron is a man in his mid-forties, with a rugged and imposing presence. He has a strong jawline, sharp hazel eyes, and short, graying hair. A deep scar runs across his left cheek, a reminder of his many years of service.
